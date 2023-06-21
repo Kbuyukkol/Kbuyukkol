@@ -3,7 +3,7 @@
 </p>
 
 
- <h1 align=center style="color:aqua" >👋🏻 Welcome to my GitHub Profile 🤖 </h1>
+ <h1 align=center style="color:aqua" >~~~ Welcome to my GitHub Profile ~~~ </h1>
  
 <h2> I'm a Test Automation Engineer!</h2> 
 
@@ -35,7 +35,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3> Tools I Use:</h3>
 
 [<a href="https://www.jetbrains.com/idea/features/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" alt="IntelliJ" width="40" height="40"/> </a>][intellij]
 <img src ="https://user-images.githubusercontent.com/81612480/170158125-06d02884-224c-49a7-a455-8877279389f2.jpg" width="40" height="40" />
