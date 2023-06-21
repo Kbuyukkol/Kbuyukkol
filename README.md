@@ -3,7 +3,7 @@
 </p>
 
 
- <h1 align=center style="color:aqua" >👋🏻 Welcome to my GitHub Profile 🤖 </h1>
+ <h1 align=center style="color💜" >👋🏻 Welcome to my GitHub Profile 🤖 </h1>
  
 <h2> I'm a Test Automation Engineer!</h2> 
 
