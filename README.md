@@ -1,20 +1,11 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> 
-<!--  <img src="https://komarev.com/ghpvc/?username=nested4&&style=plastics&&color=red" align="right"/> -->
+<!--  <img src="https://komarev.com/ghpvc/?username=Kbuyukkol&&style=plastics&&color=red" align="right"/> -->
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
  <h1 align=center style="color:aqua" >👋🏻 Welcome to my GitHub Profile 🤖 </h1>
  
-
-
- 
-<!-- %7C -> alttaki yaziya | eklememize yariyor -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%45644A&lines=Hi!+I+am+Kamuran+¯\\_(ツ)_/¯;A+Test+Automation+Engineer+👨🏻‍💻;+㊗;You+can+find+some+useful+stuff+in+my+repos;Check+it+out!)
-
-
-<!-- ![image](https://user-images.githubusercontent.com/111647146/228283737-6bec0b10-ea3e-423f-a4d6-a897d8c6a006.png) -->
-
 <h2> I'm a Test Automation Engineer!</h2> 
 
 <img align=right src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="">
@@ -62,15 +53,15 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<img src="https://github-readme-stats.vercel.app/api?username=nested4&theme=radical" align="center"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nested4&layout=compact&langs_count-16&theme=dracula" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kbuyukkol&theme=radical" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kbuyukkol&layout=compact&langs_count-16&theme=dracula" align="center"/>
 
 
 ![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
  <br>
  
  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nested4&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=Kbuyukkol&&style=flat-square" align="center" />
 </div> 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
