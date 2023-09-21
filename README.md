@@ -19,7 +19,7 @@
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">][html]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.hizliresim.com/bhkcevy.png" alt="javascript" width="38" height="38"/>
-<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" title="Python" alt="Python" width="45" height="45"/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" title="Python" alt="Python" width="60" height="40"/>
  
 
 
