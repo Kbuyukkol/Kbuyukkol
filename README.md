@@ -9,28 +9,32 @@
 
 
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">][java]
-<img height="38" width="38" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> [javascript]
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title= "Typescript" width="38" height="38"/>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" title="Python" alt="Python" width="60" height="40"/>
+[<img height="38" width="38" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>][javascript]
+[<img height="38" width="38" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>][typescript]
+[<img height="40" width="60" src="https://www.python.org/static/community_logos/python-logo-generic.svg"/>][python]
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png">][selenium]
-[<a href="https://testng.org/doc/" target="_blank"><img src="https://blogs.perficient.com/files/2014/08/TestNG.png" alt="testng" width="40" height="40" /></a>][testng]
+<a href="https://testng.org/doc/" target="_blank"><img src="https://blogs.perficient.com/files/2014/08/TestNG.png" alt="testng" width="40" height="40" /></a>
+<a href="https://junit.org/junit5/" target="_blank"><img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f23a7a9b70a249eed481481_Junit-p-500.png" alt="junit5" width="40" height="40" /></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>
 <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" title="Cypress" alt="Cypress" width="45" height="45"/>
+<img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="45" height="45"/>
 <a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png" alt="appium" width="50" height="40"/></a>
-<a href="https://swagger.io/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-qHhkU65OgRkaxFh1vRF4ycDfUOznjs7cEu5aXbMwWCYpNUMNPfDcL9Fox0a3_mbtAY&usqp=CAU" alt="swagger" width="40" height="40"/> </a>
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">][html]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+<a href="https://swagger.io/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-qHhkU65OgRkaxFh1vRF4ycDfUOznjs7cEu5aXbMwWCYpNUMNPfDcL9Fox0a3_mbtAY&usqp=CAU" alt="swagger" width="40" height="40"/> </a>
 
 
 
 
 [java]: https://www.java.com/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[typescript]: https://www.typescriptlang.org/
+[python]:https://www.python.org/
 [selenium]: https://www.selenium.dev/
 [postgresql]: https://www.postgresql.org/
 [sql]: https://www.w3schools.com/sql/
