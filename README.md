@@ -12,21 +12,24 @@
 [<img height="38" width="38" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>][javascript]
 [<img height="38" width="38" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>][typescript]
 [<img height="40" width="60" src="https://www.python.org/static/community_logos/python-logo-generic.svg"/>][python]
+[<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png"/>][html]
+[<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>][css]
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png">][selenium]
-<a href="https://testng.org/doc/" target="_blank"><img src="https://blogs.perficient.com/files/2014/08/TestNG.png" alt="testng" width="40" height="40" /></a>
-<a href="https://junit.org/junit5/" target="_blank"><img src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f23a7a9b70a249eed481481_Junit-p-500.png" alt="junit5" width="40" height="40" /></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>
-<img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg" title="Cypress" alt="Cypress" width="45" height="45"/>
-<img src="https://playwright.dev/img/playwright-logo.svg" title="Playwright" alt="Playwright" width="45" height="45"/>
-<a href="https://appium.io" target="_blank" rel="noreferrer"> <img src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png" alt="appium" width="50" height="40"/></a>
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png">
-[<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">][html]
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<a href="https://swagger.io/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-qHhkU65OgRkaxFh1vRF4ycDfUOznjs7cEu5aXbMwWCYpNUMNPfDcL9Fox0a3_mbtAY&usqp=CAU" alt="swagger" width="40" height="40"/> </a>
+[<img height="40" width="40" src="https://blogs.perficient.com/files/2014/08/TestNG.png"/>][testng]
+[<img height="40" width="40" src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f23a7a9b70a249eed481481_Junit-p-500.png"/>][junit5]
+[<img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"/>][cucumber]
+[<img height="40" width="40" src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg"/>][cypress]
+[<img height="40" width="40" src="https://playwright.dev/img/playwright-logo.svg"/>][playwright]
+[<img height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>][postman]
+[<img height="40" width="40" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4"/>][restassured]
+[<img height="40" width="40" src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4"/>][swagger]
+[<img height="40" width="40" src="https://www.karatelabs.io/assets/images/logo.svg"/>][karate]
+[<img height="40" width="40" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/appium.png"/>][appium]
+[<img height="40" width="50" src="https://jmeter.apache.org/images/logo.svg"/>][jmeter]
 
 
 
@@ -36,27 +39,42 @@
 [typescript]: https://www.typescriptlang.org/
 [python]:https://www.python.org/
 [selenium]: https://www.selenium.dev/
-[postgresql]: https://www.postgresql.org/
-[sql]: https://www.w3schools.com/sql/
-[html]: https://www.w3schools.com/html/
-[github]: https://github.com/zelihaznk
-[cucumber]: https://cucumber.io/
 [testng]: https://testng.org/doc/
+[junit5]: https://junit.org/junit5/
+[cucumber]: https://cucumber.io/
+[cypress]: https://www.cypress.io
+[playwright]:https://playwright.dev
+[appium]: https://appium.io
+[jmeter]: https://jmeter.apache.org/
+[git]: https://git-scm.com/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[postman]: https://postman.com
+[restassured]: https://rest-assured.io/
+[swagger]: https://swagger.io/
+[karate]:https://www.karatelabs.io/
+[jira]: https://www.atlassian.com/software/jira
+[xray]: https://www.getxray.app/
+[jenkins]: https://www.jenkins.io/
+[sql]: https://www.w3schools.com/sql/
+[jdbc]: https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+[<img height="40" width="40" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"/>][sql]
+[<img height="60" width="60" src="https://www.oracle.com/a/ocom/img/jdbc.svg"/>][jdbc]
+[<img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"/>][jira]
+[<img height="40" width="40" src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4"/>][xray]
+[<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/git/git.png"/>][git]
+[<img height="40" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>][jenkins]
 
 
-<a href="https://github.com/appium/appium-inspector" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/appium/appium-inspector/main/docs/icon.png" alt="appiumInspector" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-[<img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
-[<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
-<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="xray" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<a><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=Kbuyukkol&theme=radical" align="center"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kbuyukkol&layout=compact&langs_count-16&theme=dracula" align="center"/>
 
