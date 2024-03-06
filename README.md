@@ -19,10 +19,10 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/selenium/selenium.png">][selenium]
-[<img height="40" width="40" src="https://blogs.perficient.com/files/2014/08/TestNG.png"/>][testng]
+[<img height="40" width="40" src="https://plugins.jetbrains.com/files/21606/369492/icon/pluginIcon.svg"/>][testng]
 [<img height="40" width="40" src="https://assets-global.website-files.com/5f10ed4c0ebf7221fb5661a5/5f23a7a9b70a249eed481481_Junit-p-500.png"/>][junit5]
 [<img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg"/>][cucumber]
-[<img height="40" width="40" src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg"/>][cypress]
+[<img height="40" width="40" src="https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg"/>][cypress]
 [<img height="40" width="40" src="https://playwright.dev/img/playwright-logo.svg"/>][playwright]
 [<img height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>][postman]
 [<img height="40" width="40" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4"/>][restassured]
